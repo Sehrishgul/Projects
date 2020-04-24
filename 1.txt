@@ -3,3 +3,6 @@ First file
 chnages in first file
 
 So that can check the pull command
+
+
+I am changing in file 1 from smart git
